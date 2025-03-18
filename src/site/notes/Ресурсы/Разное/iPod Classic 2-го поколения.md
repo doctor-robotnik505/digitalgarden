@@ -1,0 +1,14 @@
+---
+{"dg-publish":true,"permalink":"/resursy/raznoe/i-pod-classic-2-go-pokoleniya/"}
+---
+
+> [!infobox]
+> ![IPod_2G.jpg](/img/user/%D0%90%D1%80%D1%85%D0%B8%D0%B2/%D0%9A%D1%8D%D1%88/IPod_2G.jpg)
+- Дата выхода: [[2002-07-17\|2002-07-17]]  
+- 10 или 20 [[Гигабайт\|ГБ]]
+- Колесо прокрутки Click Wheel стало сенсорным
+	- Оно было механическим в [[Ресурсы/Разное/iPod Classic 1-го поколения\|iPod Classic]]
+- Время автономной работы: 10 часов аудио
+- Порт [[Ресурсы/Разное/FireWire\|FireWire]] получил крышку 
+- Переключатель в HOLD-режим изменился 
+- Windows-совместимость через Musicmatch Jukebox
