@@ -5,9 +5,9 @@
 ## Список треков 
 ### Диск 1
 1. [[Ресурсы/Музыка/Born To Die (трек)\|Born To Die (трек)]] 
-2. Off to the Races 
-3. Blue Jeans 
-4. [[Video Games\|Video Games]]
+2. [[Ресурсы/Музыка/Off to the Races\|Off to the Races]] 
+3. [[Ресурсы/Музыка/Blue Jeans\|Blue Jeans]] 
+4. [[Ресурсы/Музыка/Video Games\|Video Games]]
 5. [[Ресурсы/Музыка/Diet Mountain Dew\|Diet Mountain Dew]]
 6. National Anthem 
 7. [[Dark Paradise\|Dark Paradise]]

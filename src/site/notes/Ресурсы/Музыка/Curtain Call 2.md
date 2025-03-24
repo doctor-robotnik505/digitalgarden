@@ -38,7 +38,7 @@
 1. [[3 a.m.\|3 a.m.]]
 2. [[Space Bound\|Space Bound]]
 3. [[Beautiful\|Beautiful]]
-4. [[The Monster\|The Monster]]
+4. [[Ресурсы/Музыка/The Monster\|The Monster]]
 5. [[Venom\|Venom]]
 6. [[Crack a Bottle\|Crack a Bottle]]
 7. [[Is This Love ('09)\|Is This Love ('09)]]

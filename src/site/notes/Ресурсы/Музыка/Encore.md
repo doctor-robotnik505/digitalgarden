@@ -14,7 +14,7 @@
 2. Evil Deeds
 3. Never Enough 
 4. Yellow Brick Road 
-5. [[Like Toy Soldiers\|Like Toy Soldiers]]
+5. [[Ресурсы/Музыка/Like Toy Soldiers\|Like Toy Soldiers]]
 6. Mosh
 7. Puke 
 8. My 1st Single
