@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/resursy/raznoe/i-pod-mini-2-go-pokoleniya/"}
+{"dg-publish":true,"permalink":"/resursy/raznoe/i-pod-mini-2-go-pokoleniya/","tags":["Apple"]}
 ---
 
 - Дата выхода: [[Сферы/История/Даты/2005-02-22\|2005-02-22]]  
@@ -7,6 +7,7 @@
 	- Было 8 ч аудио, теперь 18 ч 
 - Интерфейс соединения с компьютером: USB 2.0 и [[Ресурсы/Разное/FireWire\|FireWire]]
 ## Цвета корпуса 
+![iPod Mini 2-го поколения.png](/img/user/%D0%90%D1%80%D1%85%D0%B8%D0%B2/%D0%9A%D1%8D%D1%88/iPod%20Mini%202-%D0%B3%D0%BE%20%D0%BF%D0%BE%D0%BA%D0%BE%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F.png) 
 - Серый 
 - Зелёный 
 - Синий 

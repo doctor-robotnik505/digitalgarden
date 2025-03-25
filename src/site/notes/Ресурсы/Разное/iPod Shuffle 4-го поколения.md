@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/resursy/raznoe/i-pod-shuffle-4-go-pokoleniya/"}
+{"dg-publish":true,"permalink":"/resursy/raznoe/i-pod-shuffle-4-go-pokoleniya/","tags":["Apple"]}
 ---
 
 > [!infobox] Title
-> ![750px-IPod_Shuffle_4G.svg.png|200](/img/user/%D0%90%D1%80%D1%85%D0%B8%D0%B2/%D0%9A%D1%8D%D1%88/750px-IPod_Shuffle_4G.svg.png)
+> ![750px-IPod_Shuffle_4G.svg.png|200](/img/user/%D0%90%D1%80%D1%85%D0%B8%D0%B2/%D0%9A%D1%8D%D1%88/750px-IPod_Shuffle_4G.svg.png) ![VolumeIcon.jpeg](/img/user/%D0%90%D1%80%D1%85%D0%B8%D0%B2/%D0%9A%D1%8D%D1%88/VolumeIcon.jpeg)
 - [[Ресурсы/Разное/iPod Shuffle\|iPod Shuffle]]
 - Дата выхода: [[Сферы/История/Даты/2010-09-01\|2010-09-01]]
 	- Продажи были прекращены [[Сферы/История/Даты/2017-07-21\|2017-07-21]]
@@ -17,10 +17,28 @@
 - Аккумулятора хватает на 15 часов прослушивания музыки 
 - Материал корпуса - анодированный [[Сферы/Химия/Алюминий\|алюминий]]
 ## Цвета корпуса 
-- Серебристый 
-- Золотой 
-- Серый космос 
-- Розовый 
-- Фиолетовый 
+### 2010
+- Серебристый
 - Голубой 
-- Красный
+- Зелёный 
+- Оранжевый 
+- Розовый 
+![Pasted image 20250325103612.png](/img/user/%D0%90%D1%80%D1%85%D0%B8%D0%B2/%D0%9A%D1%8D%D1%88/Pasted%20image%2020250325103612.png)
+### Конец 2012
+- Бирюзовый 
+- Мятный 
+- Жёлтый 
+- Красный 
+- Фиолетовый 
+- Серебристый 
+- Чёрный
+![Pasted image 20250325103742.png](/img/user/%D0%90%D1%80%D1%85%D0%B8%D0%B2/%D0%9A%D1%8D%D1%88/Pasted%20image%2020250325103742.png)
+### Середина 2015
+- Серый космос 
+- Бежевый 
+- Серебристый 
+- Розовый
+- Синий 
+- Красный (PRODUCT)RED 
+
+![Pasted image 20250325103755.png|300](/img/user/%D0%90%D1%80%D1%85%D0%B8%D0%B2/%D0%9A%D1%8D%D1%88/Pasted%20image%2020250325103755.png)

@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/resursy/raznoe/i-pod-shuffle-2-go-pokoleniya/"}
+{"dg-publish":true,"permalink":"/resursy/raznoe/i-pod-shuffle-2-go-pokoleniya/","tags":["Apple"]}
 ---
 
 > [!infobox] Title
-> ![1080px-Apple_iPod_Shuffle_second_generation_green.jpg|200](/img/user/%D0%90%D1%80%D1%85%D0%B8%D0%B2/%D0%9A%D1%8D%D1%88/1080px-Apple_iPod_Shuffle_second_generation_green.jpg)
+> ![iPod Shuffle 2-го поколения.jpg|200](/img/user/%D0%90%D1%80%D1%85%D0%B8%D0%B2/%D0%9A%D1%8D%D1%88/iPod%20Shuffle%202-%D0%B3%D0%BE%20%D0%BF%D0%BE%D0%BA%D0%BE%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F.jpg)
 - [[Ресурсы/Разное/iPod Shuffle\|iPod Shuffle]]
 - Продажи начались [[Сферы/История/Даты/2006-11-03\|2006-11-03]] 
 	- Продажи прекращены [[Сферы/История/Даты/2009-03-11\|2009-03-11]] 
@@ -15,6 +15,7 @@
 	- На 3.1 г тяжелее [[Ресурсы/Разное/iPod Shuffle 4-го поколения\|iPod Shuffle 4]] 
 - Время автономой работы: 12 часов 
 ## Цвета корпуса 
+![Цвета iPod Shuffle 2-го поколения.png](/img/user/%D0%90%D1%80%D1%85%D0%B8%D0%B2/%D0%9A%D1%8D%D1%88/%D0%A6%D0%B2%D0%B5%D1%82%D0%B0%20iPod%20Shuffle%202-%D0%B3%D0%BE%20%D0%BF%D0%BE%D0%BA%D0%BE%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F.png)
 - Металлик 
 - Жёлтый 
 - Голубой
@@ -25,4 +26,4 @@
 - Мятно-зелёный 
 - Product Red (красного цвета)
 ## Скриншот с официального сайта Apple
-![CleanShot 2025-03-16 at 12.57.39@2x.png|600](/img/user/%D0%90%D1%80%D1%85%D0%B8%D0%B2/%D0%9A%D1%8D%D1%88/CleanShot%202025-03-16%20at%2012.57.39@2x.png)
+![Скриншот с сайта Apple iPod Shuffle 2-го поколения.png|600](/img/user/%D0%90%D1%80%D1%85%D0%B8%D0%B2/%D0%9A%D1%8D%D1%88/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%20%D1%81%20%D1%81%D0%B0%D0%B9%D1%82%D0%B0%20Apple%20iPod%20Shuffle%202-%D0%B3%D0%BE%20%D0%BF%D0%BE%D0%BA%D0%BE%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F.png)
