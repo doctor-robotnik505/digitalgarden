@@ -3,7 +3,9 @@
 ---
 
 > [!infobox] Title
-> ![750px-IPod_Shuffle_4G.svg.png|200](/img/user/%D0%90%D1%80%D1%85%D0%B8%D0%B2/%D0%9A%D1%8D%D1%88/750px-IPod_Shuffle_4G.svg.png) ![VolumeIcon.jpeg](/img/user/%D0%90%D1%80%D1%85%D0%B8%D0%B2/%D0%9A%D1%8D%D1%88/VolumeIcon.jpeg)
+> ![750px-IPod_Shuffle_4G.svg.png|200](/img/user/%D0%90%D1%80%D1%85%D0%B8%D0%B2/%D0%9A%D1%8D%D1%88/750px-IPod_Shuffle_4G.svg.png) 
+> Мой iPod имеет цвет Space Grey 
+> ![VolumeIcon.jpeg](/img/user/%D0%90%D1%80%D1%85%D0%B8%D0%B2/%D0%9A%D1%8D%D1%88/VolumeIcon.jpeg)
 - [[Ресурсы/Разное/iPod Shuffle\|iPod Shuffle]]
 - Дата выхода: [[Сферы/История/Даты/2010-09-01\|2010-09-01]]
 	- Продажи были прекращены [[Сферы/История/Даты/2017-07-21\|2017-07-21]]
@@ -23,7 +25,7 @@
 - Зелёный 
 - Оранжевый 
 - Розовый 
-![Pasted image 20250325103612.png](/img/user/%D0%90%D1%80%D1%85%D0%B8%D0%B2/%D0%9A%D1%8D%D1%88/Pasted%20image%2020250325103612.png)
+![Pasted image 20250325103612.png|500](/img/user/%D0%90%D1%80%D1%85%D0%B8%D0%B2/%D0%9A%D1%8D%D1%88/Pasted%20image%2020250325103612.png)
 ### Конец 2012
 - Бирюзовый 
 - Мятный 
@@ -32,7 +34,7 @@
 - Фиолетовый 
 - Серебристый 
 - Чёрный
-![Pasted image 20250325103742.png](/img/user/%D0%90%D1%80%D1%85%D0%B8%D0%B2/%D0%9A%D1%8D%D1%88/Pasted%20image%2020250325103742.png)
+![Pasted image 20250325103742.png|500](/img/user/%D0%90%D1%80%D1%85%D0%B8%D0%B2/%D0%9A%D1%8D%D1%88/Pasted%20image%2020250325103742.png)
 ### Середина 2015
 - Серый космос 
 - Бежевый 
