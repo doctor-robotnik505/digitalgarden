@@ -15,7 +15,7 @@
 3. [[The Way I Am\|The Way I Am]] 
 4. [[Ресурсы/Музыка/My name Is\|My name Is]] 
 5. [[Stan\|Stan]] 
-6. [[Сферы/Химия/Алкены/Lose Yourself\|Lose Yourself]]
+6. [[Ресурсы/Музыка/Lose Yourself\|Lose Yourself]]
 7. [[Shake That\|Shake That]]
 8. [[Sing for the Moment\|Sing for the Moment]] 
 9. [[Ресурсы/Музыка/Without me\|Without me]]
